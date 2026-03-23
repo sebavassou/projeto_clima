@@ -50,8 +50,8 @@ Para garantir a reprodutibilidade e a governança dos dados (em conformidade com
 1. Pré-requisitos
 Certifique-se de ter o Python 3.9+ instalado em sua máquina. Recomenda-se o uso de um ambiente virtual.
 # Clone o repositório
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/sebavassou/projeto_clima.git
+cd projeto_clima
 
 # Crie e ative o ambiente virtual
 python -m venv venv
